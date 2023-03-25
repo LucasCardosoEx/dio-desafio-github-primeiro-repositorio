@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lucga\OneDrive\Documentos\DIO\Eclipse or Intellij\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3787800053.index
+1792191678.index
+1865797976.index

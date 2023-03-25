@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.dio.model.gato&apos; to &apos;Gato&apos;&#x0D;&#x0A;- Original project: &apos;Primeiro-Programa-Java&apos;&#x0D;&#x0A;- Original element: &apos;com.dio.model.gato&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dio.model.Gato&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;gato&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.dio.model{gato.java[gato" matchStrategy="1" name="Gato" qualified="false" references="true" similarDeclarations="false" stamp="1679762752840" textual="false" version="1.0"/>
+</session>
